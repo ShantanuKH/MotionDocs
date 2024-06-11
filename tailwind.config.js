@@ -8,5 +8,12 @@ export default {
     extend: {},
   },
   plugins: [],
+   safelist: [
+    'bg-red-600',
+    'bg-green-600',
+    'bg-blue-600',
+    'bg-yellow-600',
+   
+  ]
 }
 
