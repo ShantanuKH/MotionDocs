@@ -1,7 +1,7 @@
 # MotionDocs
 
 Welcome to MotionDocs, a document management application designed to offer a dynamic and interactive user experience.
-
+Easy to handle 
 
 ## Introduction
 
